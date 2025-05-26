@@ -9,8 +9,6 @@ A simple and responsive login and signup page built using **HTML** and **CSS**. 
 - Separate login and signup forms
 - CSS transitions and hover effects
 
-## 📸 Screenshots
-
 ## 🛠️ Technologies Used
 
 - HTML5
@@ -18,3 +16,12 @@ A simple and responsive login and signup page built using **HTML** and **CSS**. 
 
 ## 📁 Project Structure
 
+
+## 🚀 Getting Started
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/himanshukumar-xp/login-signup-page.git
+cd login-signup-page
+```
