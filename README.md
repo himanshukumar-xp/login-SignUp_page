@@ -11,10 +11,6 @@ A simple and responsive login and signup page built using **HTML** and **CSS**. 
 
 ## 📸 Screenshots
 
-> You can add screenshots here:
-- `screenshots/login-page.png`
-- `screenshots/signup-page.png`
-
 ## 🛠️ Technologies Used
 
 - HTML5
